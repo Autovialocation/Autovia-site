@@ -79,6 +79,7 @@ exports.handler = async (event) => {
       service_id:  'service_atd2s6l',
       template_id: 'template_qwnd3ym',
       user_id:     'B1MQrH9PEm3Dgv90c',
+      accessToken: '5xRd8ML4C5dTT923ecrFQ',
       template_params: {
         to_name:     toName,
         to_email:    customerEmail,
